@@ -5,9 +5,9 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 ## Images
 
 ![Screenshot of the application](images/1.png)
-![Screenshot of the application](images/4.png)
-![Screenshot of the application](images/2.png)
-![Screenshot of the application](images/3.png)
+![Screenshot of the application](images/2.jpeg)
+![Screenshot of the application](images/3.jpeg)
+![Screenshot of the application](images/4.jpeg)
 
 ## Get started
 
