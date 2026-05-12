@@ -5,7 +5,7 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 ## Images
 
 ![Screenshot of the application](images/1.png)
-<img src="images/1.png" width="250" height="500" />
+<img src="images/1.png"  height="500" />
 
 <p align="center">
   <img src="images/2.jpeg" width="220" />
